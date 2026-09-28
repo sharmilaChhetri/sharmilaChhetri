@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharmila Chhetri
+Hi, I'm Sharmila Chhetri
 
 I'm an aspiring QA Engineer passionate about software quality, testing, and continuous learning. 🚀
 
