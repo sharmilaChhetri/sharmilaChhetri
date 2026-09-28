@@ -28,6 +28,3 @@ Focused on learning, finding bugs, improving software quality, and growing every
 - API Testing
 - Web Development
 - Git & Github
-
-- 
-- 
